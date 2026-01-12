@@ -132,11 +132,11 @@ npm run dev
 - `GET/PUT/DELETE /api/tasks/{id}/` - Task detail
 - `GET /api/dashboard/stats/` - Dashboard statistics
 
-## Demo Accounts
-- **Admin**: `admin` / `admin123`
-- **Member**: `member` / `member123`
+## SuperAdmin Credentials
+- **Username**: `superadmin`
+- **Email**: `superadmin@taskmanager.com`
+- **Password**: `admin123`
+- **Role**: `superadmin`
 
-## License
 
-MIT License
 
